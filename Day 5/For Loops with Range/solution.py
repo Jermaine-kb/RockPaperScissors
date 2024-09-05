@@ -7,6 +7,6 @@ for number in range (1,101):
     elif number % 3 == 0:
         print("Fizz")
     elif number % 5 == 0:
-        print("Fizz")
+        print("Fuzz")
     else:
         print(number)
